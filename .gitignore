@@ -1,0 +1,16 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# system files
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
