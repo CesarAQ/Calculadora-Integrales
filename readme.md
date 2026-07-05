@@ -38,7 +38,7 @@ calculadora_integrales/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/ChristianCesarAQ/CalculadoraIntegrales.git
+git clone https://github.com/CesarAQ/Calculadora-Integrales.git
 cd <tu-repo>
 
 # 2. Crear entorno virtual (opcional pero recomendado)
