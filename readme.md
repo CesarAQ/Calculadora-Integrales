@@ -39,7 +39,7 @@ calculadora_integrales/
 ```bash
 # 1. Clonar el repositorio
 git clone https://github.com/CesarAQ/Calculadora-Integrales.git
-cd <tu-repo>
+cd <Calculadora-Integrales>
 
 # 2. Crear entorno virtual (opcional pero recomendado)
 python -m venv venv
